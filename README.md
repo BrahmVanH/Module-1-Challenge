@@ -21,3 +21,10 @@ N/A
 
 Please refer to LICENSE in repo
 
+<!-- Updates to be made:
+    images lack proper values for their alt attributes
+    "gear surrounded by dollar signs" instead of "cost management" alts are meant for screen readers, etc.
+    some of the heading attributes are mpt om sequential order
+    Lack descriptive title
+    CSS could use further consolidation - look for any classes , id's, etc. that have the same attributes and combine
+    >
